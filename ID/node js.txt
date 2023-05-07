@@ -1,0 +1,29 @@
+Node.js adalah lingkungan server sumber terbuka lintas platform yang dapat berjalan di Windows, Linux, Unix, macOS, dan lainnya. Node.js adalah lingkungan runtime JavaScript back-end, berjalan di Mesin JavaScript V8, dan mengeksekusi kode JavaScript di luar browser web.
+
+Node.js memungkinkan pengembang menggunakan JavaScript untuk menulis alat baris perintah dan skrip sisi server. Kemampuan untuk menjalankan kode JavaScript di server sering digunakan untuk menghasilkan konten halaman web yang dinamis sebelum halaman tersebut dikirim ke browser web pengguna. Akibatnya, Node.js mewakili paradigma "JavaScript di mana-mana", menyatukan pengembangan aplikasi web di sekitar satu bahasa pemrograman, sebagai lawan dari penggunaan bahasa yang berbeda untuk pemrograman sisi server versus sisi klien.
+
+Node.js memiliki arsitektur berbasis peristiwa yang mampu melakukan I/O asinkron. Pilihan desain ini bertujuan untuk mengoptimalkan throughput dan skalabilitas dalam aplikasi web dengan banyak operasi input/output, serta untuk aplikasi Web real-time (misalnya, program komunikasi real-time dan game browser).
+
+Proyek pengembangan terdistribusi Node.js sebelumnya diatur oleh Node.js Foundation, dan kini telah bergabung dengan JS Foundation untuk membentuk OpenJS Foundation. OpenJS Foundation difasilitasi oleh program Collaborative Projects dari Linux Foundation.
+
+Node.js awalnya ditulis oleh Ryan Dahl pada tahun 2009, sekitar tiga belas tahun setelah pengenalan lingkungan JavaScript sisi server pertama, Netscape's LiveWire Pro Web. Rilis awal hanya mendukung Linux dan Mac OS X. Pengembangan dan pemeliharaannya dipimpin oleh Dahl dan kemudian disponsori oleh Joyent.
+
+Dahl mengkritik kemungkinan terbatas dari server web paling populer pada tahun 2009, Apache HTTP Server, untuk menangani banyak koneksi bersamaan (hingga 10.000 dan lebih banyak) dan cara paling umum untuk membuat kode (pemrograman berurutan), ketika kode memblokir seluruh proses atau tersirat beberapa tumpukan eksekusi dalam kasus koneksi simultan.
+
+Dahl mendemonstrasikan proyek tersebut di JSConf Eropa perdana pada 8 November 2009. Node.js menggabungkan mesin JavaScript V8 Google, loop peristiwa, dan API I/O tingkat rendah.
+
+Pada Januari 2010, manajer paket diperkenalkan untuk lingkungan Node.js yang disebut npm. Manajer paket memudahkan pemrogram untuk menerbitkan dan membagikan kode sumber paket Node.js dan dirancang untuk menyederhanakan pemasangan, pemutakhiran, dan pencopotan pemasangan paket.
+
+Pada Juni 2011, Microsoft dan Joyent mengimplementasikan Node.js versi Windows asli. Build Node.js pertama yang mendukung Windows dirilis pada Juli 2011.
+
+Pada Januari 2012, Dahl minggir, mempromosikan rekan kerja dan pencipta npm Isaac Schlueter untuk mengelola proyek. Pada Januari 2014, Schlueter mengumumkan bahwa Timothy J. Fontaine akan memimpin proyek tersebut.
+
+Pada bulan Desember 2014, Fedor Indutny memulai io.js, cabang dari Node.js. Karena konflik internal atas tata kelola Joyent, io.js dibuat sebagai alternatif tata kelola terbuka dengan komite teknis terpisah. Tidak seperti Node.js, penulis berencana untuk terus memperbarui io.js dengan rilis terbaru dari mesin JavaScript Google V8.
+
+Pada bulan Februari 2015, niat untuk membentuk Yayasan Node.js yang netral diumumkan. Pada Juni 2015, komunitas Node.js dan io.js memilih untuk bekerja sama di bawah Yayasan Node.js.
+
+Pada bulan September 2015, Node.js v0.12 dan io.js v3.3 digabungkan kembali menjadi Node v4.0. Penggabungan ini menghadirkan fitur V8 ES6 ke dalam Node.js dan siklus rilis dukungan jangka panjang. Pada 2016, situs web io.js merekomendasikan agar pengembang beralih kembali ke Node.js dan tidak ada rilis lebih lanjut dari io.js yang direncanakan karena penggabungan.
+
+Pada tahun 2019, JS Foundation dan Node.js Foundation bergabung menjadi OpenJS Foundation.
+
+Pada 15 Maret 2023, Node.js 19.8.1 dirilis.

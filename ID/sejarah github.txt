@@ -1,0 +1,25 @@
+Pada tanggal 24 Februari 2009, anggota tim GitHub mengumumkan, dalam sebuah pembicaraan di markas besar Yahoo!, bahwa saat tahun pertama online, GitHub telah mengumpulkan lebih dari 46.000 repositori publik, 17.000 diantaranya dibuat pada bulan sebelumnya. Saat itu, sekitar 6.200 repositori telah bercabang dan 4600 telah digabung.
+
+Pada tanggal 5 Juli 2009, GitHub mengumumkan bahwa situs itu kini dimanfaatkan oleh lebih dari 100.000 pengguna. Pada tanggal 27 Juli 2009, Dalam pembicaraan lain yang disampaikan di Yahoo!, Tom Preston-Werner mengumumkan bahwa GitHub telah tumbuh menjadi tuan rumah 90.000 repositori publik yang unik, 12.000 yang telah bercabang, untuk total dari 135.000 repositori.
+
+Pada tanggal 25 Juli 2010, GitHub mengumumkan bahwa situs tersebut mempunyai 1 juta repositori. Pada tanggal 20 April 2011, GitHub mengumumkan bahwa situs tersebut mempunyai 2 juta repositori.
+
+Pada tanggal 2 Juni 2011, ReadWriteWeb melaporkan bahwa GitHub telah melampaui SourceForge dan Google Code di total nomor dari komit untuk jangka waktu Januari sampai Mei 2011.
+
+Pada tanggal 9 Juli 2012, Peter Levine, Partner umum di GitHub Investor Andreessen Horowitz, menetapkan bahwa GitHub telah meningkatan pendapatannya pada angka 300% setiap tahun sejak tahun 2008 "menguntungkan hampir seluruhnya".
+
+Pada tanggal 16 Januari 2013, GitHub mengumumkan telah melewati 3 juta pengguna dan kemudian mempunyai lebih dari 5 juta repositori. Pada tanggal 23 Desember 2013, GitHub mengumumkan telah mencapai 10 juta repositori.
+
+Pada bulan Juni 2015, GitHub membuka sebuah kantor di Jepang yang mana itu adalah kantor pertama GitHub di luar Amerika Serikat.
+
+Pada tanggal 29 Juli 2015, GitHub mengumumkan telah mendapatkan dana sebesar 250 juta dollar oleh Sequoia Capital. Nilai perusahaan pada saat putaran ini kira-kira 2 miliar dollar.
+
+Pada tahun 2016, GitHub menduduki posisi 14 di Forbes Cloud 100 list.
+
+Dengan rilis pertama pada tanggal 21 Juli 2017, browser web Brave menjadikan GitHub sebagai salah satu mesin pencari defaultnya.
+
+Pada tanggal 28 Februari 2018, GitHub menjadi korban serangan DoS terbesar sepanjang sejarah, dengan lalu lintas masuk mencapai sekitar 1,35 terabit per detik.
+
+Pada tanggal 4 Juni 2018, Microsoft mengakuisisi GitHub sebesar 7,5 miliar dollar.
+
+Pada tanggal 19 Juni 2018, GitHub memperluas GitHub Education dengan menawarkan bundel pendidikan gratis ke semua sekolah.

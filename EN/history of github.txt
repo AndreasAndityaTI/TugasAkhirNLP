@@ -1,0 +1,13 @@
+On February 24, 2009, GitHub announced that within the first year of being online, GitHub had accumulated over 46,000 public repositories, 17,000 of which were formed in the previous month. At that time, about 6,200 repositories had been forked at least once and 4,600 had been merged.
+
+That same year, the site was used by over 100,000 users, according to GitHub, and had grown to host 90,000 unique public repositories, 12,000 having been forked at least once, for a total of 135,000 repositories.
+
+In 2010, GitHub was hosting 1 million repositories. A year later, this number doubled.ReadWriteWeb reported that GitHub had surpassed SourceForge and Google Code in total number of commits for the period of January to May 2011. On January 16, 2013, GitHub passed the 3 million users mark and was then hosting more than 5 million repositories. By the end of the year, the number of repositories was twice as great, reaching 10 million repositories.
+
+In 2012, GitHub raised $100 million in funding from Andreessen Horowitz with a $750 million valuation. On July 29, 2015, GitHub stated it had raised $250 million in funding in a round led by Sequoia Capital. Other investors of that round included Andreessen Horowitz, Thrive Capital, and IVP (Institutional Venture Partners). The round valued the company at approximately $2 billion.
+
+In 2015, GitHub opened an office in Japan, its first outside of the U.S. In 2016, GitHub was ranked No. 14 on the Forbes Cloud 100 list. It was not featured on the 2018, 2019, and 2020 lists.
+
+On February 28, 2018, GitHub fell victim to the third-largest distributed denial-of-service (DDoS) attack in history, with incoming traffic reaching a peak of about 1.35 terabits per second.
+
+On June 19, 2018, GitHub expanded its GitHub Education by offering free education bundles to all schools.
